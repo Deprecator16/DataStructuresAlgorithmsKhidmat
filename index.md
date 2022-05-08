@@ -13,6 +13,6 @@
 ## Class by Class Info
 ### Week 1
 [Intro PowerPoint](https://docs.google.com/presentation/d/1FcykBlQ1-jTtZOqBTC8k6DJ7p8eKzBHG/edit?usp=sharing&ouid=102829175677708313220&rtpof=true&sd=true)  
-[Class 1 Recording](https://drive.google.com/drive/folders/1_a37J1Qm2Fn0TQ_YSZXEduRRZSkOkoqK?usp=sharing)
-[Link to Class 1 Code](https://github.com/Deprecator16/DataStructuresAlgorithmsKhidmat/tree/main/Class%201)
-[Assignment 1](https://forms.gle/9iA2dqmrXNmaYJ7L7)
+[Class 1 Recording](https://drive.google.com/drive/folders/1_a37J1Qm2Fn0TQ_YSZXEduRRZSkOkoqK?usp=sharing)  
+[Link to Class 1 Code](https://github.com/Deprecator16/DataStructuresAlgorithmsKhidmat/tree/main/Class%201)  
+[Assignment 1](https://forms.gle/9iA2dqmrXNmaYJ7L7)  
