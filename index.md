@@ -14,5 +14,13 @@
 ### Week 1
 [Intro PowerPoint](https://docs.google.com/presentation/d/1FcykBlQ1-jTtZOqBTC8k6DJ7p8eKzBHG/edit?usp=sharing&ouid=102829175677708313220&rtpof=true&sd=true)  
 [Class 1 Recording](https://drive.google.com/drive/folders/1_a37J1Qm2Fn0TQ_YSZXEduRRZSkOkoqK?usp=sharing)  
-[Link to Class 1 Code](https://github.com/Deprecator16/DataStructuresAlgorithmsKhidmat/tree/main/Class%201)  
+[Code for Class 2](https://github.com/Deprecator16/DataStructuresAlgorithmsKhidmat/tree/main/Class%201)  
 [Assignment 1](https://forms.gle/9iA2dqmrXNmaYJ7L7)  
+
+### Week 2
+[Class 2 Recording](https://drive.google.com/drive/folders/1yHFBw2Jmer11VQbvCzN4ABIIXcV7j_nb?usp=sharing)  
+[Code for Class 2]()  
+
+### Week 3
+[Class 3 Recording](https://drive.google.com/drive/folders/1bE0yNnbRlR4uEkTaNc8O4W151Q6gghrx?usp=sharing)  
+[Code for Class 3]()  
