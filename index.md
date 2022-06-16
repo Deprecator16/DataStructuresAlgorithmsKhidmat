@@ -5,7 +5,7 @@
 2. Week 2: Linked Lists, Hash Tables (Hashing)
 3. Week 3: Priority Queues, Binary Trees
 4. Week 4: General Trees and Graphs
-5. Week 5: Linear Searching, Heaps
+5. Week 5: Linear Searching, Assignment 1 & 2 review
 6. Week 6: Asymptotic Analysis, Binary Search,
 7. Week 7: Various Sorting Algorithms
 8. Week 8: Discussion on effective use of the above
@@ -34,4 +34,7 @@ All code from Class 3 was incorporated into the Class 2 code, as Class 3 had to 
 [Code for Class 4](https://github.com/Deprecator16/DataStructuresAlgorithmsKhidmat/tree/main/Class%204)  
 [Trees PowerPoint](https://docs.google.com/presentation/d/1eaIc28gocwsekSZxaSJiVSJunUeZ7YA8/edit?usp=sharing&ouid=102829175677708313220&rtpof=true&sd=true)  
 [Graphs PowerPoint](https://docs.google.com/presentation/d/1DgeOd7Zblg3j8vIGDQMB-Z52fJv0AzgU/edit?usp=sharing&ouid=102829175677708313220&rtpof=true&sd=true)  
+
+### Week 5
+[Class 5 Recording](https://drive.google.com/drive/folders/1csCTn64xkO_wQldk3Sw9qwLtYwWqjxjr?usp=sharing)  
 
